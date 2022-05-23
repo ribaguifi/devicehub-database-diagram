@@ -1,0 +1,1 @@
+# devicehub-database-diagram
